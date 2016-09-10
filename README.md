@@ -1,2 +1,2 @@
 # d_primes
-## primes numbers - nothing else
+## primes - numbers - nothing else
