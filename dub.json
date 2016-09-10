@@ -1,0 +1,9 @@
+{
+	"name": "d_primes",
+	"authors": [
+		"Stefan Koch"
+	],
+	"description": "prime numbers neatly packaged as d arrays",
+	"copyright": "Copyright © 2016, Stefan Koch",
+	"license": "Boost"
+}
